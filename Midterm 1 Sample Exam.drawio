@@ -208,18 +208,34 @@
             <mxPoint x="1320" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1240" y="220" />
-              <mxPoint x="1321" y="220" />
-              <mxPoint x="1321" y="270" />
-              <mxPoint x="1320" y="270" />
+              <mxPoint x="1320" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ieMZr1iwCtBDfYbSCtk3-58" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-57">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ieMZr1iwCtBDfYbSCtk3-59" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-57">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieMZr1iwCtBDfYbSCtk3-64" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ieMZr1iwCtBDfYbSCtk3-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="340" as="sourcePoint" />
+            <mxPoint x="1480" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieMZr1iwCtBDfYbSCtk3-65" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-64">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieMZr1iwCtBDfYbSCtk3-66" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-64">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
