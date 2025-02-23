@@ -100,12 +100,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ieMZr1iwCtBDfYbSCtk3-28" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-27">
+        <mxCell id="ieMZr1iwCtBDfYbSCtk3-28" value="1..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-27">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ieMZr1iwCtBDfYbSCtk3-29" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-27">
+        <mxCell id="ieMZr1iwCtBDfYbSCtk3-29" value="0..1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ieMZr1iwCtBDfYbSCtk3-27">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="30" as="offset" />
           </mxGeometry>
